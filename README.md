@@ -226,7 +226,7 @@ The project explores real-world rate-limiting strategies, **concurrency, distrib
 
 ### *"A very small man can cast a very large shadow."*
 
-**— Varys, Game of Thrones**
+**— Varys**
 
 </p>
 
