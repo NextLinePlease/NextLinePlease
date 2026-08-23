@@ -33,7 +33,6 @@ I enjoy going beyond solving problems and understanding how software works under
 - 🚦 **Also building** — a Distributed Rate Limiter using C++, Redis & Docker
 - 🧠 **Currently learning** — system design, distributed systems, databases and low-level performance
 - 💻 **Problem solving** — 1000+ problems across LeetCode, Codeforces and GeeksforGeeks
-- 🚀 **Goal** — become a strong Software Engineer and secure a high-quality internship
 
 ---
 
