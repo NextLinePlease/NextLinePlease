@@ -125,7 +125,6 @@ const developer = {
 <a href="https://leetcode.com/u/Let-Me-Cook/">
   <img src="https://img.shields.io/badge/LeetCode-Knight%20%7C%201800%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a1a2e"/>
 </a>
-&nbsp;
 
 <br/><br/>
 
@@ -186,20 +185,6 @@ const developer = {
 ---
 
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/NextLinePlease/NextLinePlease/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NextLinePlease/NextLinePlease/output/github-contribution-grid-snake.svg"/>
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/NextLinePlease/NextLinePlease/output/github-contribution-grid-snake-dark.svg"/>
-  </picture>
-</div>
-
-
----
-
-
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -236,7 +221,12 @@ An Agentic AI Deployment Intelligence & Microservice Risk Prediction Platform fe
 A high-throughput distributed rate limiter implementing Token Bucket and Sliding Window Log algorithms in C++17 & Python. Uses atomic Redis Lua scripts (`EVALSHA`) for O(1) race-condition-free validation, FastAPI HTTP 429 middleware, circuit breaking, and Dockerized Pytest concurrency/load benchmarks sustaining 15,000+ RPS.
 
 [![💻 Source](https://img.shields.io/badge/Source%20Code-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NextLinePlease/Distributed-Rate-Limiter)
+
+`C++17` `Python` `Redis` `Lua` `FastAPI` `Docker` `Pytest`
+
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 **📈 Trading Order Matching Engine**
@@ -248,6 +238,7 @@ A low-latency Central Limit Order Book (CLOB) built in C++ using custom intrusiv
 `C++` `STL` `OOP` `Low-Latency Systems`
 
 </td>
+<td width="50%" valign="top"></td>
 </tr>
 </table>
 
@@ -258,7 +249,7 @@ A low-latency Central Limit Order Book (CLOB) built in C++ using custom intrusiv
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/vansh-kumar-169a90335">
+<a href="https://www.linkedin.com/in/vansh-joshi-169a90335">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
