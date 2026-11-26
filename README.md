@@ -118,7 +118,7 @@ const developer = {
 
 <div align="center">
 
-<a href="https://codeforces.com/profile/NextLinePlease">
+<a href="https://codeforces.com/profile/SuperLallu">
   <img src="https://img.shields.io/badge/Codeforces-Specialist%20%7C%201405-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=1a1a2e"/>
 </a>
 &nbsp;
